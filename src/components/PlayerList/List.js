@@ -68,7 +68,7 @@ export const List = () => {
                 <MotionFlex
                   layerStyle={"listItem"}
                   whileHover={{ scale: 1.1 }}
-                  bg={"#E8E8E8"}
+                  bg={"#FFF5DC"}
                   border={"1px solid #CCCCCC"}
                   boxShadow={"0px 4px 4px rgba(0, 0, 0, 0.25)"}
                   borderRadius={"10px"}
